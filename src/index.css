@@ -1,0 +1,113 @@
+/* * {
+  border: 1px solid red;
+} */
+
+body {
+  margin: 0px;
+  box-sizing: border-box;
+  padding: 0px;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  padding: 60px 10px 10px 10px;
+  width: 75vw;
+}
+
+.flex-center-column{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  padding: 10px;
+}
+
+.flex-wrap-row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.center-text {
+  text-align: center;
+}
+
+ul {
+  list-style-position: inside;
+  padding: 0px;
+}
+
+.no-bullets {
+  list-style-type: none;
+}
+
+h1, h2, h3, h4, h5 {
+  text-align: center;
+}
+
+.height300 {
+  height: 300px;
+}
+
+.height175 {
+  height: 175px;
+}
+
+.italisize {
+  font-style: italic;
+}
+.padding1 {
+  padding: 1px;
+}
+
+/* .bg-gradient-black-green {
+  background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 20%, rgba(9,71,0,1) 50%, rgba(0,0,0,1) 95%);
+} */
+
+.bg-gradient-black-green {
+  background-image: linear-gradient(to bottom 
+    right,rgba(0,0,0,1),rgba(9,71,0,1),rgba(0,0,0,1) )
+}
+
+.text-white {
+  color: white;
+}
+
+.semi-transparent {
+  background-color: rgba(0,0,0,1);
+}
+
+.padding10 {
+  padding: 10px;
+}
+
+.padding30 {
+  padding: 30px;
+}
+
+.padding-bottom10 {
+  padding-bottom: 10px;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+#errorImgContainer {
+  background-image: url('./images/404Error.png');
+  background-color: rgb(255,255,255);
+  height: 100vh;
+  width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
