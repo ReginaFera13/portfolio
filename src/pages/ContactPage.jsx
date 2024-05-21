@@ -10,7 +10,7 @@ function ContactPage() {
                     <h1>Contact Me</h1>
                     <p>Thank you for your interest in connecting with me! Whether you have questions about my work, potential collaboration opportunities, or just want to say hello, I'd love to hear from you. You can reach me through the following channels:</p>
                     <p><span className="text-bold">Phone:</span> (434) 241-5643</p>
-                    <p><span className="text-bold">Email:</span> shawnmarie1997@yahoo.com</p>
+                    <p><span className="text-bold">Email:</span> shawnmariesmith@icloud.com</p>
                     <p><span className="text-bold">Social Media:</span></p>
                     <Stack direction="horizontal" gap={3} className='flex-wrap-row'>
                         <Button variant="dark" href='https://github.com/ReginaFera13' target='blank'>
