@@ -53,9 +53,21 @@ function PortfolioPage() {
                                         </Col>
                                     </Row>
                                 </Container>
-                                <Button variant="dark" href='https://github.com/crystaljobe/change-mate' target='blank'>View Project</Button>{' '}
-                                <Button variant="dark" href='https://www.youtube.com/watch?v=aaU94KcA4qU' target='blank'>View Demo</Button>{' '}
-                                <Button variant="dark" href='https://changem8.com/' target='blank'>Visit Site</Button>
+                                <Container>
+                                    <Row>
+                                        <Col></Col>
+                                        <Col>
+                                            <Button variant="dark" href='https://github.com/crystaljobe/change-mate' target='blank'>View Project</Button>
+                                        </Col>
+                                        <Col>
+                                            <Button variant="dark" href='https://www.youtube.com/watch?v=aaU94KcA4qU' target='blank'>View Demo</Button>
+                                        </Col>
+                                        <Col>
+                                            <Button variant="dark" href='https://changem8.com/' target='blank'>Visit Site</Button>
+                                        </Col>
+                                        <Col></Col>
+                                    </Row>
+                                </Container>
                             </Card.Body>
                         </Card>
                     </Carousel.Item>
@@ -99,8 +111,18 @@ function PortfolioPage() {
                                         </Col>
                                     </Row>
                                 </Container>
-                                <Button variant="dark" href='https://github.com/ReginaFera13/lotr-game' target='blank'>View Project</Button>{' '}
-                                <Button variant="dark" href='https://youtu.be/0QFWKv4raN4' target='blank'>View Demo</Button>
+                                <Container>
+                                    <Row>
+                                        <Col></Col>
+                                        <Col>
+                                            <Button variant="dark" href='https://github.com/ReginaFera13/lotr-game' target='blank'>View Project</Button>
+                                        </Col>
+                                        <Col>
+                                            <Button variant="dark" href='https://youtu.be/0QFWKv4raN4' target='blank'>View Demo</Button>
+                                        </Col>
+                                        <Col></Col>
+                                    </Row>
+                                </Container>                                
                             </Card.Body>
                         </Card>
                     </Carousel.Item>
