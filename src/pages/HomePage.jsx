@@ -8,7 +8,7 @@ function HomePage() {
             <div className="main">
             <div className="flex-center-column">
                     <h1>Shawn Smith: Full-Stack Software Engineer</h1>
-                    <Image src="src/images/shawn_smith.jpeg" fluid rounded />
+                    <Image src="shawn_smith.jpeg" fluid rounded />
             </div>
             <div className="flex-center-column">
                     <h2>Welcome To My Portfolio Website!</h2>

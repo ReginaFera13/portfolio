@@ -12,7 +12,7 @@ function NavBar() {
       <Navbar.Brand as={Link} to='/'>
             <Image
               alt=""
-              src="src/images/portfolio_icon.png"
+              src="portfolio_icon.png"
               width="30"
               height="30"
               className="d-inline-block align-top padding1"

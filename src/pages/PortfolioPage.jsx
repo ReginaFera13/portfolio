@@ -16,7 +16,7 @@ function PortfolioPage() {
                 <Carousel fade>
                     <Carousel.Item>
                         <Card className='padding10 bg-gradient-black-green'>
-                            <Card.Img variant="top" src="src/images/group_project.png" />
+                            <Card.Img variant="top" src="group_project.png" />
                             <Card.Body className='padding30'>
                                 <Card.Title className='text-white'>Group Project - ChangeMate - Deployed</Card.Title>
                                 <Card.Text className='text-white'>Introducing ChangeMate, a collaborative endeavor developed during my immersive experience at Code Platoon. As part of a group project, we conceptualized and crafted this application to showcase our proficiency in full-stack software development while addressing a societal need.</Card.Text>
@@ -73,7 +73,7 @@ function PortfolioPage() {
                     </Carousel.Item>
                     <Carousel.Item>
                         <Card className='padding10 bg-gradient-black-green'>
-                            <Card.Img variant="top" src="src/images/shadows_of_mordor.png" />
+                            <Card.Img variant="top" src="shadows_of_mordor.png" />
                             <Card.Body className='padding30'>
                                 <Card.Title className='text-white'>Personal Project - Shadows of Mordor</Card.Title>
                                 <Card.Text className='text-white'>Enter the realm of Shadows of Mordor, an ambitious personal project that delves into the rich tapestry of J.R.R. Tolkien's Middle-earth. Conceived as a labor of love and a testament to my passion for both game development and the Lord of the Rings universe, Shadows of Mordor represents a journey of exploration and learning.</Card.Text>
