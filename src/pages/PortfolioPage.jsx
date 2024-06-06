@@ -126,6 +126,55 @@ function PortfolioPage() {
                             </Card.Body>
                         </Card>
                     </Carousel.Item>
+                    <Carousel.Item>
+                        <Card className='padding10 bg-gradient-black-green'>
+                            <Card.Img variant="top" src="public_eye_usa.png" />
+                            <Card.Body className='padding30'>
+                                <Card.Title className='text-white'>Personal Project - PublicEyeUSA - In Progress</Card.Title>
+                                <Card.Text className='text-white'>PublicEyeUSA is a groundbreaking app designed to enhance political transparency and combat corruption, empowering citizens with the tools they need to make informed decisions. By leveraging third-party APIs to access comprehensive federal data, PublicEyeUSA provides users with detailed insights into candidates, organizations, bills, and financial activities within the political landscape.</Card.Text>
+                                <Card.Text className='text-white'>PublicEyeUSA is your essential tool for navigating the complexities of the political system, ensuring that your choices are backed by reliable, up-to-date information. Join us in the pursuit of a transparent and accountable democracy.</Card.Text>
+                                <Container className='padding-bottom10'>
+                                    <Row>
+                                        <Col>
+                                            <Badge pill bg='light' text='dark'>CSS</Badge>
+                                        </Col>
+                                        <Col>
+                                            <Badge pill bg='light' text='dark'>Bootstrap</Badge>
+                                        </Col>
+                                        <Col>
+                                            <Badge pill bg='light' text='dark'>Django</Badge>
+                                        </Col>
+                                        <Col>
+                                            <Badge pill bg='light' text='dark'>HTML</Badge>
+                                        </Col>
+                                    </Row>
+                                    <Row>
+                                        <Col>
+                                            <Badge pill bg='light' text='dark'>TypeScript</Badge>
+                                        </Col>
+                                        <Col>
+                                            <Badge pill bg='light' text='dark'>PostgreSQL</Badge>
+                                        </Col>
+                                        <Col>
+                                            <Badge pill bg='light' text='dark'>Python</Badge>
+                                        </Col>
+                                        <Col>
+                                            <Badge pill bg='light' text='dark'>React</Badge>
+                                        </Col>
+                                    </Row>
+                                </Container>
+                                <Container>
+                                    <Row>
+                                        <Col></Col>
+                                        <Col>
+                                            <Button variant="dark" href='https://github.com/ReginaFera13/publiceyeusa' target='blank'>View Project</Button>
+                                        </Col>
+                                        <Col></Col>
+                                    </Row>
+                                </Container>                                
+                            </Card.Body>
+                        </Card>
+                    </Carousel.Item>
                 </Carousel>
             </div>
         </div>
