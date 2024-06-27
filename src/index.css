@@ -69,11 +69,6 @@ h1, h2, h3, h4, h5 {
   padding: 1px;
 }
 
-/* .bg-gradient-black-green {
-  background: rgb(0,0,0);
-background: linear-gradient(0deg, rgba(0,0,0,1) 20%, rgba(9,71,0,1) 50%, rgba(0,0,0,1) 95%);
-} */
-
 .bg-gradient-black-green {
   background-image: linear-gradient(to bottom 
     right,rgba(0,0,0,1),rgba(9,71,0,1),rgba(0,0,0,1) )
@@ -137,4 +132,12 @@ background: linear-gradient(0deg, rgba(0,0,0,1) 20%, rgba(9,71,0,1) 50%, rgba(0,
 
 .remove-margin-bottom {
   margin-bottom: 0px;
+}
+
+.remove-padding {
+  padding: 0px;
+}
+
+.margin-right10 {
+  margin-right: 10px;
 }
