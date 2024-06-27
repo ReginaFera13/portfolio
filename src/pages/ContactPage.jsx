@@ -8,7 +8,7 @@ function ContactPage() {
             <div className="main">
                 <div className="flex-center-column">
                     <h1>Contact Me</h1>
-                    <p>Thank you for your interest in connecting with me! Whether you have questions about my work, potential collaboration opportunities, or just want to say hello, I'd love to hear from you. You can reach me through the following channels:</p>
+                    <p className='center-text'>I'm eager to connect with like-minded individuals who share my passion for software engineering and technology. Whether you're interested in discussing potential collaborations, sharing insights, or simply exchanging ideas, I'd love to hear from you. Feel free to reach out via email or connect with me on LinkedIn. Let's embark on this journey together and create something amazing! You can reach me through the following channels:</p>
                     <p><span className="text-bold">Phone:</span> (434) 241-5643</p>
                     <p><span className="text-bold">Email:</span> shawnmariesmith@icloud.com</p>
                     <p><span className="text-bold">Social Media:</span></p>
