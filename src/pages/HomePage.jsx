@@ -204,7 +204,7 @@ function HomePage() {
             </div>
             <div className="flex-center-column">
                     <h2>Beyond the Code</h2>
-                    <p>Outside of coding, I enjoy crafting (woodworking, knitting, and cross-stitching), learning foreign languages (I know a little Spanish and Levantine Arabic), and playing video games (I love games fantasy RPGs such as Skyrim and similar games). I'm also an avid reader and love diving into books on psychology. I also enjoy fantasy novels and am a huge J.R.R. Tolkein fan. I believe in the importance of maintaining a healthy work-life balance and finding inspiration in diverse experiences both inside and outside the world of technology.</p>
+                    <p>Outside of coding, I enjoy crafting (woodworking, knitting, and cross-stitching), learning foreign languages (I know a little Spanish and Levantine Arabic), and playing video games (I love fantasy RPGs such as Skyrim and similar games). I'm also an avid reader and love diving into books on psychology. I also enjoy fantasy novels and am a huge J.R.R. Tolkein fan. I believe in the importance of maintaining a healthy work-life balance and finding inspiration in diverse experiences both inside and outside the world of technology.</p>
             </div> 
             </div>
         </div>
